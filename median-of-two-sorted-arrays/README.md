@@ -1,7 +1,5 @@
 # Median of Two Sorted Arrays
 
-Harika! LeetCode'daki "Median of Two Sorted Arrays" problemi için profesyonel bir `README.md` dosyası oluşturalım. Verilen çözümün karmaşıklık gereksinimini karşılamadığını belirterek, mevcut kodu detaylı bir şekilde açıklayacağım.
-
 ---
 
 # Median of Two Sorted Arrays
