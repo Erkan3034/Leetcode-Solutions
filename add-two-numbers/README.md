@@ -1,8 +1,3 @@
-# Add Two Numbers
-
-Elbette, LeetCode'daki "Add Two Numbers" problemi için profesyonel bir `README.md` dosyası aşağıdadır:
-
----
 
 # Add Two Numbers
 
