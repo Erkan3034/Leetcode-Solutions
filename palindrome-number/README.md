@@ -1,10 +1,5 @@
 # Palindrome Number
 
-
----
-
-# Palindrome Number
-
 ## 📝 Problem Açıklaması
 
 Verilen bir `x` tam sayısının bir palindrom olup olmadığını belirleyin. Bir tam sayı, soldan sağa ve sağdan sola okunduğunda aynı ise palindromdur.
