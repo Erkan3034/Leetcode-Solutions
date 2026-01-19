@@ -1,6 +1,5 @@
 # Palindrome Number
 
-Harika bir fikir! LeetCode problemi için profesyonel bir `README.md` dosyası oluşturalım.
 
 ---
 
